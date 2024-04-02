@@ -42,4 +42,4 @@ Bibliotecas:
 JDK: 
 * 17 Eclipse Temurin version 17.0.8
 
-** DESENVOLVIDO POR RENALLY LARYSSA 
+** DESENVOLVIDO POR Renally Laryssa 
